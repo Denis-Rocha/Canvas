@@ -1,5 +1,7 @@
 # Canvas
 
+Denis Rocha e Gabriel Toledo
+
 Read.me (Canvas):
 
 O projeto do jogo é baseado em jogos de fuga em 2d
@@ -19,5 +21,5 @@ Fizemos plataformas, porta e obstáculos utilizando o Canvas.
 
 <img src="img/canvas.png" width="300px" weight="300px">
 
-Uploading WhatsApp Video 2023-09-19 at 10.46.13.mp4…
+video: https://drive.google.com/drive/folders/1Cq9Dv6aJoh9NxY6i7u1KiFUE-8xGMEqe?usp=sharing
 
