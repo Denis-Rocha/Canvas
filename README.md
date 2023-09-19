@@ -17,7 +17,7 @@ Javascript:
 
 Fizemos plataformas, porta e obstáculos utilizando o Canvas.
 
-<img src="img/canvaspng" width="300px" weight="300px">
+<img src="img/canvas.png" width="300px" weight="300px">
 
 Uploading WhatsApp Video 2023-09-19 at 10.46.13.mp4…
 
